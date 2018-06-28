@@ -7,6 +7,8 @@ name = "pypi"
 pymongo = "*"
 jupyter = "*"
 flask-pymongo = "*"
+matplotlib = "*"
+pandas = "*"
 
 [dev-packages]
 yapf = "*"
